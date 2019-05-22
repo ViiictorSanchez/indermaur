@@ -210,7 +210,7 @@ input, textarea, label {
 }
 
 .black-bg-cristal {
-    background-color: rgba(8,18,28, 0.6);
+    background-color: rgba(8,18,28, 0.4);
 }
 
 .smoky-white-bg{
@@ -250,6 +250,9 @@ a{
 }
 
 /* Button */
+.uk-border-remove{
+    border: 0px;
+}
 
 .uk-button{
     font-family: 'Roboto Condensed', sans-serif;
@@ -311,6 +314,7 @@ a{
 #cover-shoes .black-bg-cristal {
     width: 100%;
     text-align: center;
+    background-color: rgba(8,18,28, 0.4);
 }
 
 #cover-shoes h1 {
