@@ -103,6 +103,14 @@ input, textarea, label {
     padding-top: 100px;
     padding-bottom: 100px;
 }
+
+.size-buttom-home{
+    height: 90px !important;
+    width: 460px !important;
+    font-size: 2em !important;
+    padding: 20px !important;
+}
+
 .spacing{
     letter-spacing: 5px;
     margin-bottom: 66px;
